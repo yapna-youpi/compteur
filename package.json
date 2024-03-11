@@ -1,0 +1,23 @@
+{
+  "name": "compteur",
+  "version": "1.0.0",
+  "description": "chronometre du temps",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yapna-youpi/compteur.git"
+  },
+  "keywords": [
+    "build",
+    "start"
+  ],
+  "author": "will-turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yapna-youpi/compteur/issues"
+  },
+  "homepage": "https://github.com/yapna-youpi/compteur#readme"
+}
